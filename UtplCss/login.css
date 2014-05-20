@@ -1,0 +1,73 @@
+@import url(tema.css);
+/*azul: #004370
+amarillo:#FDBE0F
+plomo: #EAE9E1*/
+
+.login{
+	background: #004370;
+	width: 404px;
+	margin: 50px auto 50px auto;
+	padding: 8px;
+}
+.formLogin{
+	width: 100%;
+	height: 100%;
+	border: 1px solid white;
+	margin:auto;
+}
+.tableLogin{
+	/*border: 1px solid red;*/
+	margin:auto;
+
+}
+.ingreso{
+	width: 211px;
+	margin-left: 10px;
+}
+.tit{
+	width: 100px !important;
+}
+.tableDatos tbody td{
+	/*border: 1px solid yellow;*/
+	padding: 10px;
+	color: white;
+}
+h3{
+	font-size: 20px !important;
+	font-weight: bold !important;
+	color:white;
+	text-align: left;
+	margin:10px;
+}
+tr td label{
+	font-size: 16px;
+}
+.formLogin .table th, .table td {
+	border-top:none;
+}
+.formLogin input {
+    background: none repeat scroll 0 0 #11508B ;
+    border: 1px solid #042D53 ;
+    color: #FFFFFF ;
+    display: block ;
+    float: left ;
+    padding: 6px 0 ;
+    width: 210px ;
+    border-radius: 0px !important;
+}
+
+.enviar {
+    background: none repeat scroll 0 0 #4790E4 !important;
+    border-bottom: 1px solid #000000 !important;
+    color: #FFFFFF !important;
+    display: block !important;
+    float: right !important;
+    font-size: 14px !important;
+    height: 35px !important;
+    padding: 4px !important;
+    text-align: center !important;
+    text-transform: capitalize !important;
+    width: 100px !important;
+}
+
+
